@@ -80,7 +80,7 @@ IF (${"\$LOTTONUMBERSTRING"} <> 012);/**
 ENDIF;
 ```
 
-Mote that the opening statement MUST use a semicolon and not a colon.
+Note that the opening statement MUST use a semicolon and not a colon.
 
 All control structures MUST use this form, even when the body is one statement or less.
 
